@@ -4,7 +4,7 @@
 
 # 西南石油大学开源协会
 
-| [中文](README.md) | [English](README.en_US.md) |
+| [中文](/profile/README.md) | [English](/profile/README.en_US.md) |
 | ----------------- | -------------------------- |
 
 </div>
