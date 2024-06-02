@@ -31,8 +31,10 @@
 
 欢迎加入西南石油大学开源协会，一起推动开源社区的发展！
 
-- 加入招新 QQ 群：940185806
+|         加入 Github 组织          |                  加入 QQ 群                   |
+| :-------------------------------: | :-------------------------------------------: |
+| https://github.com/SWPUOpenSource | ![QQ招新群二维码](/assets/qqgroup_qrcode.jpg) |
 
-    ![QQ招新群二维码](/assets/qqgroup_qrcode.jpg)
+- 加入招新 QQ 群：940185806
 
 - 加入 GitHub 组织：https://github.com/SWPUOpenSource
