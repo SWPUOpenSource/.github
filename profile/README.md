@@ -1,6 +1,6 @@
 <div align="center">
 
-![西南石油大学开源协会](../assets/logo.png)
+![西南石油大学开源协会](/assets/logo.png)
 
 # 西南石油大学开源协会
 
@@ -33,6 +33,6 @@
 
 - 加入招新 QQ 群：940185806
 
-    ![QQ招新群二维码"](../assets/qqgroup_qrcode.jpg)
+    ![QQ招新群二维码](/assets/qqgroup_qrcode.jpg)
 
 - 加入 GitHub 组织：https://github.com/SWPUOpenSource
