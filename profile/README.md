@@ -1,28 +1,8 @@
-<div style="
-font-size: 18px;
-font-weight: bold;
-margin-bottom: 20px;
-text-align: center;
-">
+<div align="center">
 
-<img src="assets/logo.png" style="
-max-width: 100%;
-width: 200px;
-height: 200px;
-margin-bottom: 10px;
-border-radius: 50%;
-"></img>
+![西南石油大学开源协会](../assets/logo.png)
 
 # 西南石油大学开源协会
-
-</div>
-
----
-
-<div style="
-display: flex;
-justify-content: center;
-">
 
 | [中文](README.md) | [English](README.en_US.md) |
 | ----------------- | -------------------------- |
@@ -53,6 +33,6 @@ justify-content: center;
 
 - 加入招新 QQ 群：940185806
 
-    <img style="width: 200px;margin-right: 20px;" src="../assets/qqgroup_qrcode.jpg" alt="QQ招新群二维码" />
+    ![QQ招新群二维码"](../assets/qqgroup_qrcode.jpg)
 
 - 加入 GitHub 组织：https://github.com/SWPUOpenSource
