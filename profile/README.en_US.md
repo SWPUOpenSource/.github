@@ -4,7 +4,9 @@
 
 # SWPU Open Source Association
 
-| [中文](/profile/README.md) | [English](/profile/README.en_US.md) |
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+| [中文](/profile/README.md) | English |
 | ----------------- | -------------------------- |
 
 </div>

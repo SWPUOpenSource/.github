@@ -4,7 +4,9 @@
 
 # 西南石油大学开源协会
 
-| [中文](/profile/README.md) | [English](/profile/README.en_US.md) |
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+| 中文 | [English](/profile/README.en_US.md) |
 | ----------------- | -------------------------- |
 
 </div>
@@ -25,7 +27,7 @@
 
 ## 参与贡献
 
-在参与贡献之前，请先阅读[行为准则](CODE_OF_CONDUCT.md)和[贡献指南](CONTRIBUTING.md)。
+在参与贡献之前，请先阅读 [行为准则](CODE_OF_CONDUCT.md) 和 [贡献指南](CONTRIBUTING.md)。
 
 ## 加入我们
 
