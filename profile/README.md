@@ -1,13 +1,14 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
 ![西南石油大学开源协会](/assets/logo.png)
 
 # 西南石油大学开源协会
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![QQ 群](https://img.shields.io/badge/QQ%E7%BE%A4-923718650-green)](https://qm.qq.com/q/GWd7joG96m)
 
 | 中文 | [English](/profile/README.en_US.md) |
-| ----------------- | -------------------------- |
+| ---- | ----------------------------------- |
 
 </div>
 
@@ -33,10 +34,10 @@
 
 欢迎加入西南石油大学开源协会，一起推动开源社区的发展！
 
-|         加入 Github 组织          |                  加入 QQ 群                   |
-| :-------------------------------: | :-------------------------------------------: |
-| https://github.com/SWPUOpenSource | ![QQ招新群二维码](/assets/qqgroup_qrcode.jpg) |
+|          加入 Github 组织           |                  加入 QQ 群                   |
+| :---------------------------------: | :-------------------------------------------: |
+| <https://github.com/SWPUOpenSource> | ![QQ招新群二维码](/assets/qqgroup_qrcode.jpg) |
 
 - 加入招新 QQ 群：940185806
 
-- 加入 GitHub 组织：https://github.com/SWPUOpenSource
+- 加入 GitHub 组织：<https://github.com/SWPUOpenSource>

@@ -1,13 +1,14 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
 ![SWPU Open Source Association](/assets/logo.png)
 
 # SWPU Open Source Association
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![QQ 群](https://img.shields.io/badge/QQ%E7%BE%A4-923718650-green)](https://qm.qq.com/q/GWd7joG96m)
 
 | [中文](/profile/README.md) | English |
-| ----------------- | -------------------------- |
+| -------------------------- | ------- |
 
 </div>
 
@@ -33,10 +34,10 @@ Before contributing, please read our [Code of Conduct](CODE_OF_CONDUCT.md) and [
 
 We welcome you to join the SWPU Open Source Association and work together to advance the open-source community!
 
-|           Join GitHub Organization            |                Join QQ Group                 |
-| :-------------------------------------------: | :------------------------------------------: |
-| https://github.com/SWPUOpenSource             | ![QQ Recruitment Group QR Code](/assets/qqgroup_qrcode.jpg) |
+|      Join GitHub Organization       |                        Join QQ Group                        |
+| :---------------------------------: | :---------------------------------------------------------: |
+| <https://github.com/SWPUOpenSource> | ![QQ Recruitment Group QR Code](/assets/qqgroup_qrcode.jpg) |
 
 - Join the recruitment QQ group: 940185806
 
-- Join the GitHub organization: https://github.com/SWPUOpenSource
+- Join the GitHub organization: <https://github.com/SWPUOpenSource>
