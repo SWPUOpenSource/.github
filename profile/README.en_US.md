@@ -28,6 +28,8 @@ The Open Source Association affiliated with Southwest Petroleum University (SWPU
 
 ## How to Contribute
 
+[Welcome to the Southwest Petroleum University Open Source Community!](https://github.com/orgs/SWPUOpenSource/discussions/1) If this is your first time in our community, you can head over to our [discussion forum](https://github.com/orgs/SWPUOpenSource/discussions/), where we have some help for you to get started.
+
 Before contributing, please read our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Join Us
@@ -37,7 +39,3 @@ We welcome you to join the SWPU Open Source Association and work together to adv
 |      Join GitHub Organization       |                        Join QQ Group                        |
 | :---------------------------------: | :---------------------------------------------------------: |
 | <https://github.com/SWPUOpenSource> | ![QQ Recruitment Group QR Code](/assets/qqgroup_qrcode.jpg) |
-
-- Join the recruitment QQ group: 940185806
-
-- Join the GitHub organization: <https://github.com/SWPUOpenSource>

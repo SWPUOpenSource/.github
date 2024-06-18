@@ -28,6 +28,8 @@
 
 ## 参与贡献
 
+[欢迎来到西南石油大学开源社区！](https://github.com/orgs/SWPUOpenSource/discussions/1)如果你是第一次来到我们的社区，你可以前往我们的 [讨论区](https://github.com/orgs/SWPUOpenSource/discussions/)，我们在那里为你提供了一些入门的帮助。
+
 在参与贡献之前，请先阅读 [行为准则](CODE_OF_CONDUCT.md) 和 [贡献指南](CONTRIBUTING.md)。
 
 ## 加入我们
@@ -37,7 +39,3 @@
 |          加入 Github 组织           |                  加入 QQ 群                   |
 | :---------------------------------: | :-------------------------------------------: |
 | <https://github.com/SWPUOpenSource> | ![QQ招新群二维码](/assets/qqgroup_qrcode.jpg) |
-
-- 加入招新 QQ 群：940185806
-
-- 加入 GitHub 组织：<https://github.com/SWPUOpenSource>
